@@ -1,0 +1,29 @@
+{
+  "name": "primitive-value-undefined",
+  "version": "1.0.0",
+  "description": "undefined",
+  "keywords": [
+    "undefiend"
+  ],
+  "homepage": "https://github.com/10xly/primitive-value-undefined#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/primitive-value-undefined/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/primitive-value-undefined.git"
+  },
+  "license": "MIT",
+  "author": "tj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "convert-to-lower-case": "3.0.1",
+    "extract-stringtag": "1.0.1",
+    "function.prototype.exec": "1.0.0",
+    "javascript-interpreter": "1.0.0"
+  }
+}
